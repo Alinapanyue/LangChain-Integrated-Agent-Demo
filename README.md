@@ -31,7 +31,7 @@ python src/run_tests.py
 
 ```
 src/
-├── rag_demo.py          # RAG 系统
+├── rag_demo.py          # RAG 系统  
 ├── workflow_demo.py     # 基础工作流
 ├── workflow_advanced.py # 高级工作流
 ├── data_sources.py     # 数据源集成
